@@ -11,4 +11,4 @@ MySQL 8
 Bootstrap
 ChartJS
 
-![alt text](https://github.com/qboww/OperatorManager/index.png)
+![alt text](https://github.com/qboww/OperatorManager/website/pictures/index.png)
