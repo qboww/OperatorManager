@@ -6,9 +6,9 @@ Website is made using no patterns, OOP, SQL injections prevention and implementi
 Thats just a web interface for operating your local database with CRUD operations
 
 Used technologies:
-PHP
-MySQL 8
-Bootstrap
-ChartJS
+- PHP
+- MySQL 8
+- Bootstrap
+- ChartJS
 
-![alt text](https://github.com/qboww/OperatorManager/website/pictures/index.png)
+![alt text](https://github.com/qboww/OperatorManager/tree/main/website/pictures/index.png)
