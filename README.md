@@ -11,4 +11,4 @@ Used technologies:
 - Bootstrap
 - ChartJS
 
-![alt text](https://github.com/qboww/OperatorManager/tree/main/website/pictures/index.png)
+![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/index.png)
