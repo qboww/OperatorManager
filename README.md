@@ -12,3 +12,12 @@ Used technologies:
 - ChartJS
 
 ![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/index.png)
+![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/create.png)
+![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/view-admin.png)
+![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/view-operator.png)
+![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/view-guest.png)
+![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/login.png)
+![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/register.png)
+![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/edit.png)
+![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/delete.png)
+![alt text](https://github.com/qboww/OperatorManager/blob/main/website/pictures/account.png)
